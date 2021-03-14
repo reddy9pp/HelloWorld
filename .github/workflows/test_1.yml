@@ -3,7 +3,7 @@
 name: VarianleDemo
 
 # Controls when the action will run. 
-on: [workflow_run]
+on: [workflow_dispatch]
 env:
   user_name: "Prashanth"
   demo_name: "reddy"
