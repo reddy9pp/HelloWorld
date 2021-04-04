@@ -1,0 +1,3 @@
+[submodule "HelloWorldCmakeSample"]
+	path = HelloWorldCmakeSample
+	url = https://github.com/reddy9pp/HelloWorldCmakeSample.git
